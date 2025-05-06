@@ -4,7 +4,6 @@ Atividade de Programação Concorrente para auditoria de CPFs utilizando múltip
 
 ## Estrutura
 
-- `dados/` → Contém os 30 arquivos de entrada.
 - `resultados/` → Contém os arquivos de tempo de execução para cada versão.
 - `auditoria/`
   - `Versao1.java` até `Versao8.java`
